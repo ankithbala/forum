@@ -1,0 +1,20 @@
+body{
+  background-image:url("back.jpg");
+}
+#items, #items th,#items td
+{
+    
+    border-collapse: collapse;
+    border: 1px solid gray;
+}
+table.one {
+  position:relative;
+float:left;
+
+}
+table.two {
+  position:relative;
+float:center;
+
+}
+
